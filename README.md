@@ -10,10 +10,10 @@
 - `best.pt` - Weights for ping pong detection AI model
 - `best_ncnn_model.zip` - Neural network for ping pong detection
 
-# Goal
+## Goal
 
-# Specifications
+## Specifications
 
-# Hardware Components
+## Hardware Components
 - Raspberry Pi (4 or 5 needed for YOLO inference speeds)
 - Raspberry Pi Camera Module (supported via `picamera2`)
